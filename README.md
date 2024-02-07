@@ -8,15 +8,18 @@ I am an Information Technology student at Politeknik Negeri Padang. Someone who 
 </p>
 
 
-**Languages and Tools:**  
+# *Languages and Tools:*
 
 <p align="center">
-<img src="https://www.svgrepo.com/show/355081/js.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
-  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
-  <img src="https://www.svgrepo.com/show/330398/express.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
-  <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
-  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
-  <img src="https://www.svgrepo.com/show/374035/reactts.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
-  <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
+<img src="https://www.svgrepo.com/show/355081/js.svg" height="80" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="80" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/330398/express.svg" height="80" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="80" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/374071/sequelize.svg" height="80" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="80" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/374035/reactts.svg" height="80" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" height="80" alt="https://www.linkedin.com/in/aimeliala/">
 </p>
+
+⭐️ From [daffayuza](https://github.com/daffayuza)
 
