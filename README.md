@@ -1,15 +1,22 @@
 # Hello, I'm Muhammad Daffa Yuza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-
 **`(Developer)`**
-I am an Information Technology student at Politeknik Negeri Padang. someone who is very enthusiastic about back end and front end web development. I always want to build something great with my code, experience, and some knowledge. The following is the tech stack that I am currently exploring. I have also created several projects using the tech stack through my repository.
+I am an Information Technology student at Politeknik Negeri Padang. Someone who is very enthusiastic about back end and front end web development. I always want to build something great with my code, experience, and some knowledge. As a participant of MSIB Batch 5 independent study further strengthened my software development skills in the backend development section. I constantly strive to improve and adapt my skills to solve complex problems, and to produce efficient software solutions.
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
-<img align="left" alt="CSS" width="30px" height="28px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://sequelize.org/img/logo.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<p align="center">
+<img align="middle" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+</p>
+
+
+**Languages and Tools:**  
+
+<p align="center">
+<img src="https://www.svgrepo.com/show/355081/js.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/330398/express.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/374035/reactts.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
+  <img src="https://www.svgrepo.com/show/306466/next-dot-js.svg" height="100" alt="https://www.linkedin.com/in/aimeliala/">
+</p>
 
