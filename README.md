@@ -1,4 +1,4 @@
-# Hello, I'm Muhammad Daffa Yuza <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, I'm Daffa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 😁
 
 **`(Developer)`**
 I am an Information Technology student at Politeknik Negeri Padang. Someone who is very enthusiastic about back end and front end web development. I always want to build something great with my code, experience, and some knowledge. As a participant of MSIB Batch 5 independent study further strengthened my software development skills in the backend development section. I constantly strive to improve and adapt my skills to solve complex problems, and to produce efficient software solutions.
