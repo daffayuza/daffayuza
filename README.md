@@ -15,7 +15,7 @@ I am an Information Technology student at Politeknik Negeri Padang. Someone who 
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="75" alt="nodeJS">
   <img src="https://www.svgrepo.com/show/330398/express.svg" height="75" alt="express.js">
   <img src="https://www.svgrepo.com/show/355133/mysql.svg" height="75" alt="mysql">
-  <img src="https://www.svgrepo.com/show/374071/sequelize.svg" height="75" alt="sequelize">
+  <img src="https://www.svgrepo.com/show/354210/prisma.svg" height="75" alt="prisma">
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="75" alt="mongodv">
   <img src="https://www.svgrepo.com/show/374035/reactts.svg" height="75" alt="react">
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="75" alt="tailwind">
